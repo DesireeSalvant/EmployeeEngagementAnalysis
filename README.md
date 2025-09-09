@@ -91,7 +91,6 @@ Leaders needed a governed, interactive view of engagement results that:
 2. Compares Current Year vs Last Year and Industry Benchmark consistently.  
 3. Reveals differences by Region, Department, Job Level, and Staff Tenure, and brings open-ended feedback into the discussion.
 
-> The prior process relied on **spreadsheets and static decks**, limiting exploration speed, consistency, and actionability.
 
 ---
 
